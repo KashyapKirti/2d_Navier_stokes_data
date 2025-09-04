@@ -4,4 +4,7 @@ To read the binary data in matlab use code "vorticity_read.m"
 
 To read the binary data in Python use code "vorticity_read.py"
 
-In both cases change the directory paths accordingly. 
+In both cases change the directory paths accordingly.
+
+# Link for FTLE code
+https://sreejithsanthosh.github.io/FTLEhub/docs/Tutorials/FTLEEuclidean.html 
